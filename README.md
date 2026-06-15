@@ -1,51 +1,69 @@
-# Hi 👋, I'm Golla Manikshita
+<h1 align="center">Hi 👋, I'm Golla Manikshita</h1>
 
-### ECE Undergraduate | Python Developer | AI/ML Enthusiast
+<h3 align="center">ECE Undergraduate | Python Developer | AI/ML Enthusiast</h3>
 
-🌱 Currently learning Machine Learning, Deep Learning, and Data Analytics
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Enthusiast;Data+Analytics+Learner;Problem+Solver;Always+Learning+New+Things" />
+</p>
 
-💻 Building projects with Python, FastAPI, PyTorch, and NLP
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=manikshitagolla-byte&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-🚀 Interested in Artificial Intelligence and Machine Learning
+---
 
-📚 Undergraduate at Geethanjali College of Engineering and Technology
+### 👩‍💻 About Me
 
-📫 Reach me at: [manikshitagolla@gmail.com](mailto:manikshitagolla@gmail.com)
+* 🎓 ECE Undergraduate at **Geethanjali College of Engineering and Technology**
+* 🌱 Learning **Machine Learning, Deep Learning, and Data Analytics**
+* 💻 Passionate about **Python, AI/ML, NLP, and Software Development**
+* 🚀 Building real-world AI applications
+* 📫 Email: **[manikshitagolla@gmail.com](mailto:manikshitagolla@gmail.com)**
 
-### Skills
+---
 
-* Python
-* Machine Learning
-* Deep Learning
-* Data Analytics
-* FastAPI
-* PyTorch
-* Git & GitHub
+### 🚀 Featured Projects
 
-### Featured Projects
+🔹 **MNIST Handwritten Digit Classification API**
+PyTorch • FastAPI • Docker
 
-* MNIST Handwritten Digit Classification API
-* AI Resume Parser
-* AI Translator App
-* AI Autocorrect Tool
+🔹 **AI Resume Parser**
+Python • NLP • Text Processing
 
-### Connect with Me
+🔹 **AI Translator App**
+Python • NLP • Language Translation
 
-* LinkedIn: [www.linkedin.com/in/golla-manikshita](http://www.linkedin.com/in/golla-manikshita)
-* GitHub: github.com/manikshitagolla-byte
+🔹 **AI Autocorrect Tool**
+Python • NLP • Spell Correction
 
+---
 
-<!--
-**manikshitagolla-byte/manikshitagolla-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages and Tools
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,html,css,mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manikshitagolla-byte&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikshitagolla-byte&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/golla-manikshita">LinkedIn</a> •
+<a href="https://github.com/manikshitagolla-byte">GitHub</a>
+</p>
+
+⭐ *Passionate about AI/ML and building impactful solutions through technology.*
+
