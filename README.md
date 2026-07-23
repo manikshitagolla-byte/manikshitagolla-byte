@@ -1,105 +1,90 @@
-<h1 align="center">Hi 👋, I'm Golla Manikshita</h1>
+<div align="center">
 
-<h3 align="center">
-🎓 Electronics & Communication Engineering Student
-</h3>
+# Hello 👋 I'm Golla Manikshita
 
-<p align="center">
-💡 Passionate about AI • Python • Embedded Systems • Machine Learning
-</p>
+### Electronics & Communication Engineering Student
 
-<p align="center">
-Building intelligent solutions through technology 🚀
-</p>
+*"Passionate about building AI-powered solutions and exploring embedded technologies."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=ECE+Student;Python+Developer;AI+%26+Machine+Learning;Always+Learning+🚀" />
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-🌸 B.Tech Electronics & Communication Engineering (ECE)
+🎓 B.Tech in Electronics & Communication Engineering
 
 🏫 Geethanjali College of Engineering and Technology
 
-🐍 Learning Python, AI, Machine Learning & Deep Learning
+💻 Learning Python, AI, Machine Learning and Deep Learning
 
-🤖 Interested in Computer Vision, NLP & Embedded Systems
+🤖 Interested in Computer Vision, NLP and Embedded Systems
 
-🚀 Building AI-powered applications and Python projects
+🚀 Building practical AI applications
 
-🌱 Always learning new technologies
-
-📧 **Email:** manikshitagolla@gmail.com
+🌱 Always exploring new technologies
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+### Languages
 
-### 🤖 AI & ML
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Web
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,fastapi" />
-</p>
+### AI & ML
 
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 MNIST Handwritten Digit Classification API
+✨ MNIST Handwritten Digit Classification API
 
-🔹 AI Resume Parser
+✨ AI Resume Parser
 
-🔹 AI Translator App
+✨ AI Translator
 
-🔹 AI Autocorrect Tool
+✨ AI Autocorrect Tool
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikshitagolla-byte&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikshitagolla-byte&show_icons=true&theme=radical"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manikshitagolla-byte&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikshitagolla-byte&layout=compact&theme=radical"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<p align="center">
+📧 **manikshitagolla@gmail.com**
 
-<a href="https://github.com/manikshitagolla-byte">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+💼 LinkedIn: https://linkedin.com/in/golla-manikshita-a5ab86314
 
-<a href="https://www.linkedin.com/in/golla-manikshita-a5ab86314">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:manikshitagolla@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+💻 GitHub: https://github.com/manikshitagolla-byte
 
 ---
 
-<h3 align="center">
-✨ "Learning, Building & Growing Every Day." ✨
-</h3>
+<div align="center">
+
+### 🌷 *"Dream • Learn • Build • Repeat"*
+
+</div>
