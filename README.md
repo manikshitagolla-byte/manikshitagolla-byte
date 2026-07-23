@@ -1,69 +1,105 @@
 <h1 align="center">Hi 👋, I'm Golla Manikshita</h1>
 
-<h3 align="center">ECE Undergraduate | Python Developer | AI/ML Enthusiast</h3>
+<h3 align="center">
+🎓 Electronics & Communication Engineering Student
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Enthusiast;Data+Analytics+Learner;Problem+Solver;Always+Learning+New+Things" />
+💡 Passionate about AI • Python • Embedded Systems • Machine Learning
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=manikshitagolla-byte&label=Profile%20Views&color=0e75b6&style=flat" />
+Building intelligent solutions through technology 🚀
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-* 🎓 ECE Undergraduate at **Geethanjali College of Engineering and Technology**
-* 🌱 Learning **Machine Learning, Deep Learning, and Data Analytics**
-* 💻 Passionate about **Python, AI/ML, NLP, and Software Development**
-* 🚀 Building real-world AI applications
-* 📫 Email: **[manikshitagolla@gmail.com](mailto:manikshitagolla@gmail.com)**
+🌸 B.Tech Electronics & Communication Engineering (ECE)
 
----
+🏫 Geethanjali College of Engineering and Technology
 
-### 🚀 Featured Projects
+🐍 Learning Python, AI, Machine Learning & Deep Learning
 
-🔹 **MNIST Handwritten Digit Classification API**
-PyTorch • FastAPI • Docker
+🤖 Interested in Computer Vision, NLP & Embedded Systems
 
-🔹 **AI Resume Parser**
-Python • NLP • Text Processing
+🚀 Building AI-powered applications and Python projects
 
-🔹 **AI Translator App**
-Python • NLP • Language Translation
+🌱 Always learning new technologies
 
-🔹 **AI Autocorrect Tool**
-Python • NLP • Spell Correction
+📧 **Email:** manikshitagolla@gmail.com
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠 Tech Stack
 
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manikshitagolla-byte&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikshitagolla-byte&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
+### 🤖 AI & ML
 <p>
-<a href="https://www.linkedin.com/in/golla-manikshita">LinkedIn</a> •
-<a href="https://github.com/manikshitagolla-byte">GitHub</a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-⭐ *Passionate about AI/ML and building impactful solutions through technology.*
+### 🌐 Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,fastapi" />
+</p>
 
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 MNIST Handwritten Digit Classification API
+
+🔹 AI Resume Parser
+
+🔹 AI Translator App
+
+🔹 AI Autocorrect Tool
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikshitagolla-byte&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manikshitagolla-byte&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/manikshitagolla-byte">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/golla-manikshita-a5ab86314">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:manikshitagolla@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ "Learning, Building & Growing Every Day." ✨
+</h3>
